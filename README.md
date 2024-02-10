@@ -29,15 +29,16 @@ Usage: ifs COMMAND
 
 Content-Aware File System.
 
-╭─ Commands ─────────────────────────────────────────────╮
-│ embedder  Default embedder.                            │
-│ index     Index a file or directory.                   │
-│ search    Perform semantic search in a directory.      │
-│ version   Display application version.                 │
-╰────────────────────────────────────────────────────────╯
-╭─ Parameters ───────────────────────────────────────────╮
-│ help,-h  Display this message and exit.                │
-╰────────────────────────────────────────────────────────╯
+╭─ Commands ───────────────────────────────────────────────────╮
+│ embedder  Default embedder.                                  │
+│ index     Index a file or directory.                         │
+│ search    Perform semantic search in a directory.            │
+│ shell     Interactive Shell.                                 │
+│ version   Display application version.                       │
+╰──────────────────────────────────────────────────────────────╯
+╭─ Parameters ─────────────────────────────────────────────────╮
+│ help,-h  Display this message and exit.                      │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
 `index` command
