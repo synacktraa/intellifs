@@ -149,7 +149,8 @@ Default embedder.
 #### `shell` command
 > Starts an interactive shell.
 
-https://github.com/synacktraa/synacktraa/assets/91981716/b746ccf8-e27b-4abd-99cf-528677fb0ef8
+https://github.com/synacktraa/intellifs/assets/91981716/cfc7894a-90d7-49f9-bac1-c5a76ddc0690
+
 
 ## Library Usage
 
